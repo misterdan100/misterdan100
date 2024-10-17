@@ -27,6 +27,8 @@
 
 ## Practice projects:
 
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+
 <a href="https://rental-cars-project-jet.vercel.app/cars" target="blank">
 <img width="257" alt="image" src="https://file.notion.so/f/f/11635030-77ea-4d4b-9bae-4d7bf05acf1e/0e1e616b-12c2-4bef-923d-e1cfa6b4aa02/image.png?table=block&id=1220f72c-daf1-805e-a834-d12159c57e54&spaceId=11635030-77ea-4d4b-9bae-4d7bf05acf1e&expirationTimestamp=1729296000000&signature=_rM3lSpRzhlft4O__rNNaALKo7L5Pv5R2mOug8EwGwo&downloadName=image.png">
 <p>See Rental Cars Project</p>
@@ -54,6 +56,7 @@
 <p>See E-commerce Project</p>
 </a>
 
+</div>
 
 
 *You can call me "Mister Dan"*
