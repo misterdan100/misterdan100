@@ -35,6 +35,12 @@
 </a>
 
 <a href="https://mister-todo-v2.netlify.app" target="blank">
+<img width="257" alt="image" src="https://raw.githubusercontent.com/misterdan100/misterdan-cv-v1/refs/heads/main/src/assets/img/todo-app-v5-screenshot.png">
+<p>See Todos App</p>
+</a>
+<div></div>
+
+<a href="https://mister-todo-v2.netlify.app" target="blank">
 <img width="257" alt="image" src="https://raw.githubusercontent.com/misterdan100/misterdan-cv-v1/refs/heads/main/src/assets/img/task-manager-v1.png">
 <p>See Task Manager v2 (desktop)</p>
 </a>
