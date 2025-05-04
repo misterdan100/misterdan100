@@ -2,7 +2,7 @@
 <!-- <br> -->
 <h3 align="center">A passionate Full Stack developer from Medellin - Colombia</h3>
 
-- 🔭 I’m currently working on **my Portafolio:** [see some projects below](#practice-projects)
+- 🔭 I’m currently working on **my Portafolio:** [Link to Web Portfolio](https://daniel-merchan.vercel.app/)
 
 - 🌱 I’m currently focus on **TS / React / Next.js / Node.js**
 
